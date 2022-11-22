@@ -1,0 +1,24 @@
+.main-body {
+    background-image: url(./john\ doe.jfif);
+    padding: 50px;
+  }
+  .header-one {
+    font-size: 3rem;
+  }
+  .btn {
+    background-color: rgb(235, 28, 28);
+    color: rgb(255, 255, 255);
+    padding: 5px 25px ;
+
+  }
+  .first parent {
+       display: flex;
+       flex-direction: row;
+       padding: 5px;
+  }
+.girl-image {
+  max-width: 500px;
+  min-height: 500px;
+  border-radius: 50%;
+}
+  
