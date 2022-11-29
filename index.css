@@ -1,7 +1,35 @@
 .main-body {
-    background-image: url(./john\ doe.jfif);
+    background-color: blue;
     padding: 50px;
   }
+  .main-nav{
+    background-color: black;
+    position: fixed;
+    top: 0;
+    padding: 0;
+    width: 100%;
+  }
+  
+  .nav-list{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .logo{
+    color: yellow;
+    font-size: 20px;
+    text-decoration: line-through;
+    font-weight: 900;
+    padding-right: 15rem;
+    
+  }
+
+  li{
+    list-style-type: none;
+    }
+
   .header-one {
     font-size: 3rem;
   }
